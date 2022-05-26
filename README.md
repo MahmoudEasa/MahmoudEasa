@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudeasa" alt="mahmoudeasa" /></a> </p>
 
-- 🔭 I’m currently working on **(Udacity Redux Corse)**
-
-- 🌱 I’m currently learning **(React, Redux)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudEasa](https://github.com/MahmoudEasa)
 
 - 📫 How to reach me **(https://www.linkedin.com/in/mahmoudeasa), (mu01011422865@gmail.com)**
