@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Easa</h1>
-<h3 align="center">A Front-End Web Developer (React) From Egypt</h3>
+<h3 align="center">A Software Engineer from Egypt</h3>
+<h3 align="center">I’m currently enrolled in an ALX software engineering apprenticeship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudeasa&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudeasa" /> </p>
 
